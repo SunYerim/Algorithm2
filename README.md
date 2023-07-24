@@ -2,7 +2,6 @@
 
 # Algorithm 풀이 저장소 version2
 
-<hr>
 </div>
 
 ## 1차 algorithm study
