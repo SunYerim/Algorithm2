@@ -9,6 +9,7 @@ public class adjacent {
             {5, INF, 0}
     };
 
+
     public static void main(String[] args) {
         // 그래프를 출력
         for (int i = 0; i < 3; i++) {
